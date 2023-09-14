@@ -1,0 +1,7 @@
+D:\Колеснік\Сперыч\lab№0\bin\Debug\lab№0.exe.config
+D:\Колеснік\Сперыч\lab№0\bin\Debug\lab№0.exe
+D:\Колеснік\Сперыч\lab№0\bin\Debug\lab№0.pdb
+D:\Колеснік\Сперыч\lab№0\obj\Debug\lab№0.csproj.AssemblyReference.cache
+D:\Колеснік\Сперыч\lab№0\obj\Debug\lab№0.csproj.CoreCompileInputs.cache
+D:\Колеснік\Сперыч\lab№0\obj\Debug\lab№0.exe
+D:\Колеснік\Сперыч\lab№0\obj\Debug\lab№0.pdb
